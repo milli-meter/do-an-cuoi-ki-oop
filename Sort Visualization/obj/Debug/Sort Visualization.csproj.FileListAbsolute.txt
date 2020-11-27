@@ -1,0 +1,11 @@
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\bin\Debug\Sort Visualization.exe.config
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\bin\Debug\Sort Visualization.exe
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\bin\Debug\Sort Visualization.pdb
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.csprojAssemblyReference.cache
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort_Visualization.MainForm.resources
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort_Visualization.Properties.Resources.resources
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.csproj.GenerateResource.cache
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.csproj.CoreCompileInputs.cache
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.exe
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.pdb
+D:\Programing\C# project\School OOP\Sort Visualization\Sort Visualization\obj\Debug\Sort Visualization.csproj.Fody.CopyLocal.cache
